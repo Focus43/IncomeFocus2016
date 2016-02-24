@@ -6,7 +6,7 @@ return array(
         'concrete' => array(
             'driver' => 'c5_pdo_mysql',
             'server' => '127.0.0.1',
-            'database' => 'incomefo_main',
+            'database' => 'incomefo_stage',
             'username' => 'incomefo_admin',
             'password' => 'Focus43#2016',
             'charset' => 'utf8',
