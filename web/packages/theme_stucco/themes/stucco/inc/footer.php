@@ -14,7 +14,7 @@
 							?>
 						</div><!-- //Footer Navigation -->
 						<!-- Social Button -->
-						<div class="social-button col-sm-6">
+						<div class="footer-nav col-sm-6">
 							<nav>
 								<?php  
 								$a = new GlobalArea('Footer Social');
