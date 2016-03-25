@@ -932,7 +932,7 @@ footer .footer-nav p {
 @media (min-width: 768px) {
   footer .footer-nav,
   footer .social-button {
-    margin: 40px 0 20px;
+    margin: 20px 0 20px;
   }
   footer .footer-nav .list-inline,
   footer .social-button .list-inline {
