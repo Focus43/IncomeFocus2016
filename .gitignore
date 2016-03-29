@@ -2,7 +2,7 @@
 # The below defines all the directories that should be ignored.
 
 # ingnore the files directory
-# /web/application/files/*
+/web/application/files/*
 
 # ingnore the sitemap.xml file
 /web/sitemap.xml
